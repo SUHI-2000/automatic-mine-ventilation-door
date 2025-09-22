@@ -59,7 +59,7 @@ The control logic is implemented in C++ on the Arduino platform. The code contin
 
 ```cpp
 // A snippet of the Arduino code for demonstration.
-// The full code is available in 'code/ventilation_door_control.ino'
+// The full code is available in 'ventilation_door_control/ventilation_door_control.ino'
 
 void loop(){
   // Read sensor values
