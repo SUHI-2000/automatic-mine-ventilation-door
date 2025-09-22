@@ -47,7 +47,7 @@ The sensor installation plan, detailing the strategic placement of all sensors f
 | Uninterruptible Power Supply (UPS)|   1    | Provides backup power                          |
 
 ## Software & Code
-The control logic is implemented in C++ on the Arduino platform. The code continuously reads data from the sensors to make decisions. The full, commented source code is available in the `code/` directory.
+The control logic is implemented in C++ on the Arduino platform. The code continuously reads data from the sensors to make decisions. The full, commented source code is available in the `ventilation_door_control/` directory.
 
 **Core Logic:**
 1.  **Initialization:** Sets up all sensor and output pins. The door starts in a closed state with the red light on.
