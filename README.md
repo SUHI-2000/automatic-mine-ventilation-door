@@ -1,5 +1,5 @@
 # Implementation of an Automatic Roller Door for Mine Ventilation Control
- 
+
 ![Project Status](https://img.shields.io/badge/status-complete-success)
 
 This repository documents the implementation of an automated roller door system designed to improve ventilation control, safety, and operational efficiency at the 275 fm level of the Bogala Graphite Lanka PLC mining facility. The project was developed to address the challenges of manually operating heavy ventilation doors in a high-pressure underground environment.
@@ -14,6 +14,7 @@ The full, detailed project report can be found in the `/report` directory.
 - [Software & Code](#software--code)
 - [Safety Considerations](#safety-considerations)
 - [Expected Benefits](#expected-benefits)
+- [License](#license)
 
 ## Problem Statement
 Underground workers at the 275 fm level faced significant physical strain and safety risks while manually operating the existing steel ventilation doors. The high air pressure made the doors difficult to manage, especially during trolley transport, leading to operational inefficiencies and ergonomic hazards. This project automates the door operation process using a motorized roller door integrated with motion and obstacle sensors.
@@ -110,4 +111,5 @@ Safety is the highest priority. The system includes:
 - **Reduced Physical Strain:** Alleviated ergonomic stress on workers.
 - **Optimized Ventilation Control:** Consistent and reliable airflow management.
 
-
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
